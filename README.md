@@ -4,4 +4,4 @@ Being supporters of open systems, we decided to lay out a number of key economic
 
 If you have questions about a specific data set, the methodology for collecting and processing information, or about the rights of use, please contact us at the email address: hello@panopticinsights.com. We will be happy to answer all your questions.
 
-For more information, visit our website [page]((https://panopticinsights.com/opendata/).
+For more information, visit our website [page](https://panopticinsights.com/opendata/).
